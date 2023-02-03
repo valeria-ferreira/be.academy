@@ -58,7 +58,7 @@ Inicio
          escreval("Agência: ", agencia)
          escreval("Conta: ", conta)
          escreval("")
-         escreval(nome, " o seu saldo era de: R$", saldo, " e com o valor tranferido de: R$", depoSaq, " seu saldo atual ficou de: R$", (saldo+depoSaq))
+         escreval(nome, " o seu saldo era de: R$", saldo, " e com o valor tranferido de: R$", depoSaq, " seu saldo atual ficou de: R$", (saldo-depoSaq))
          escreva("Obrigado! Volte sempre.")
       fimse
    outrocaso
