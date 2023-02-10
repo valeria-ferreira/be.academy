@@ -1,7 +1,7 @@
 Algoritmo "bancoES-CASO"
 // Descrição   : Aqui você descreve o que o programa faz! (função)
 // Autor(a)    : Valéria Ferreira
-// Data atual  : 02/02/2023
+
 // Crie um programa que, utilizando a estrutura escolha caso, permita ao usuário escolher a operação a realizar(deposito ou saque ou transferência), caso a operação seja de transferência solicite o nome do banco, da agência e conta, receba as informações e, em ao final exiba o valor inicial, a operação realizada e o saldo atual, no caso de transferência exiba também os dados do banco, agência e conta.
 
 Var

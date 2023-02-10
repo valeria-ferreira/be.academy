@@ -1,7 +1,7 @@
 Algoritmo "exercicioCaracteres"
 // Descrição   : Aqui você descreve o que o programa faz! (função)
 // Autor(a)    : Valéria Ferreira
-// Data atual  : 30/01/2023
+
 // 1. Crie um programa que receba o nome e a idade de uma pessoa e exiba:
 //    a) O nome e a idade informada;
 //    b) Verdadeiro se a idade é maior que 18;

@@ -1,7 +1,7 @@
 Algoritmo "exercicioCaracteres2"
 // Descrição   : Aqui você descreve o que o programa faz! (função)
 // Autor(a)    : Valéria Ferreira
-// Data atual  : 30/01/2023
+
 //Crie um programa que receba um valor de depósito do usuário e atualize o seu saldo. Ao final exiba o valor inicial, o depósito e o saldo atual.
 
 Var

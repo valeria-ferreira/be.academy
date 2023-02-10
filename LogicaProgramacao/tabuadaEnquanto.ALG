@@ -1,7 +1,7 @@
 Algoritmo "tabuadaEnquanto"
 // Descrição   : Aqui você descreve o que o programa faz! (função)
 // Autor(a)    : Valéria Ferreira
-// Data atual  : 04/02/2023
+
 //Crie um programa que, imprima a tabuada de um número digitado pelo usuário.
 
 Var

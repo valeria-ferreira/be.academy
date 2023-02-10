@@ -1,7 +1,7 @@
 Algoritmo "multiplosDE3usuário"
 // Descrição   : Aqui você descreve o que o programa faz! (função)
 // Autor(a)    : Valéria Ferreira
-// Data atual  : 02/02/2023
+
 // Crie um programa que imprima os múltiplos de 3 entre dois números digitados pelo usuário.
 
 Var

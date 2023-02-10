@@ -1,9 +1,7 @@
 Algoritmo "nome_endereco"
-//
-//
 // Descrição   : Aqui você descreve o que o programa faz! (função)
 // Autor(a)    : ´Valéria Ferreira'
-// Data atual  : 29/01/2023
+
 
 var nome, estado, cidade, rua, ncasa : caractere
    //utilizei caracter para número da casa pois existe casas que utiliza letras, por exemplo 42A e 42B.

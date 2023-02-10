@@ -1,9 +1,8 @@
 Algoritmo "bancoEmprestimoEnquanto"
 // Descrição   : Aqui você descreve o que o programa faz! (função)
 // Autor(a)    : Valéria Ferreira
-// Data atual  : 05/02/2023
-// Crie um programa que, utilizando a estrutura escolha caso, permita ao usuário escolher a operação a realizar(deposito ou saque ou transferência), caso a operação seja de transferência solicite o nome do banco, da agência e conta, receba as informações e, em ao final exiba o valor inicial, a operação realizada e o saldo atual, no caso de transferência exiba também os dados do banco, agência e conta.
-// Altere o programa acima a fim de repetir a operação por tantas vezes quanto o usuário desejar inicialmente, implemente a solução utilizando a estrutura para. Por exemplo, o usuário quer fazer um depósito, um saque e uma transferência então, no início do programa ele define que irá realizar 3 operações.
+
+// Crie um programa que permita ao usuário escolher a operação que deseja realizar (depósito, saque, transferência ou empréstimo). Em seguida, solicite os dados para concretizar a operação e imprima o nome da operação feita (depósito, saque, transferência ou empréstimo) e os dados referentes a ela. Exemplo: Depósito, Banco: Bom, Agência: 12-3, Conta: 1234-5, Para: Marcos Monteiro, Saldo inicial: R$ 1000,00, Valor: R$ 500,00, Saldo final: R$ 1500,00.
 
 Var
    nome, nome2, banco, bancoTransf, i : caractere

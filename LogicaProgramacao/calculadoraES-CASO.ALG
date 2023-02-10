@@ -1,7 +1,7 @@
 Algoritmo "calculadoraES-CASO"
 // Descrição   : Aqui você descreve o que o programa faz! (função)
 // Autor(a)    : Valéria Ferreira
-// Data atual  : 31/01/2023
+
 // Crie um programa que solicite a operação desejada e implemente as quatro operações matemáticas (soma,  subtração, multiplicação e divisão)
 
 Var

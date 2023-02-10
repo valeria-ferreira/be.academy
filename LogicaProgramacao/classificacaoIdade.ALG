@@ -1,7 +1,7 @@
 Algoritmo "classificaçãoIdade"
 // Descrição   : Aqui você descreve o que o programa faz! (função)
 // Autor(a)    : Valéria Ferreira
-// Data atual  : 31/01/2023
+
 //Crie um programa que receba a idade da pessoa e a classifique de acordo com a tabela:
 // Menores de 18 anos            | Menor de idade
 // Maior que 18 e menor que 60   | Adulto

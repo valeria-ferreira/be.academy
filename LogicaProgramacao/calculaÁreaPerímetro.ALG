@@ -1,7 +1,7 @@
 Algoritmo "calculaÁreaPerímetro"
 // Descrição   : Aqui você descreve o que o programa faz! (função)
 // Autor(a)    : Valéria Ferreira
-// Data atual  : 31/01/2023
+
 // Crie um programa que receba do usuário a figura geométrica que deseja calcular a área e o perímetro (Q-Quadrado ou T-Triângulo) e calcule e exiba a área e o perímetro da figura escolhida.
 
 Var

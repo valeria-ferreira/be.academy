@@ -1,7 +1,7 @@
 Algoritmo "calculadoraEnquanto"
 // Descrição   : Aqui você descreve o que o programa faz! (função)
 // Autor(a)    : Valéria Ferreira
-// Data atual  : 05/02/2023
+
 // Crie um programa que realize as 4 operações matemáticas a partir de dois números que serão digitados pelo usuário. Após isto imprima os valores na tela e em seguia pergunte se ele quer realizar novo cálculo, repetido as operações enquanto o usuário desejar continuar.
 
 Var

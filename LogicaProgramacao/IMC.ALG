@@ -2,7 +2,7 @@ Algoritmo "IMC"
 // Lógica de Programação
 // Descrição   : Aqui você descreve o que o programa faz! (função)
 // Autor(a)    : Valéria Ferreira
-// Data atual  : 29/01/2023
+
 // 1. Crie um programa que declare 3 variáveis para receber o nome, o peso e a altura de uma pessoa. Ao final imprima os dados na tela.
 // 2. Com base no programa anterior calcule e exiba ao final o índice de massa corpórea (IMC) da pessoa sabendo que formula para o cálculo é:
 //    IMC = peso/(altura*altura);

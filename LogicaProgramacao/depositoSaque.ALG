@@ -1,7 +1,7 @@
 Algoritmo "depositoSaque"
 // Descrição   : Aqui você descreve o que o programa faz! (função)
 // Autor(a)    : Nome do(a) aluno(a)
-// Data atual  : 31/01/2023
+
 // Crie um programa que permita ao usuário escolher a operação a realizar (depósito ou saque), receba a informação da operação escolhida e o valor do usuário e, em seguida,  atualize o seu saldo.  Ao final  exiba o valor inicial,  a operação  realizada e o saldo atual.
 
 Var

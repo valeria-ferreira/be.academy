@@ -1,7 +1,7 @@
 Algoritmo "IMC_SeSenao"
 // Descrição   : Aqui você descreve o que o programa faz! (função)
 // Autor(a)    : Valéria Ferreira
-// Data atual  : 30/01/2023
+
 //Crie um programa que receba a altura e o peso da pessoa e a classifique de acordo com a tabela:
 // IMC < 19       | Abaixo do peso
 // 19<= IMC <25   | Peso normal
